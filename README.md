@@ -1,4 +1,4 @@
-# ChatGPT cross-platform app that run on Windows, macOS, and Linux built with the Electron framework
+# ChatGPT cross-platform app that runs on Windows, macOS, and Linux built with the Electron framework
 
 ### Electron Quick Start
 https://www.electronjs.org/docs/latest/tutorial/quick-start
